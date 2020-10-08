@@ -22,3 +22,7 @@ git branch -M main
 git push -u origin main
 ```
 
+### Switch to branch
+```
+git checkout <branch>
+
