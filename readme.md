@@ -26,3 +26,8 @@ git push -u origin main
 ```
 git checkout <branch>
 
+### Edit commit
+
+git commit --amend -m "Change commit"
+
+
